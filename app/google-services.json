@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162993409742",
+    "firebase_url": "https://temuin-77c48-default-rtdb.firebaseio.com",
+    "project_id": "temuin-77c48",
+    "storage_bucket": "temuin-77c48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162993409742:android:7894abe42bb1470ec34a9f",
+        "android_client_info": {
+          "package_name": "com.temuin.temuin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162993409742-l1d24alm492pugmonqoocjrapdrf8jqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.temuin.temuin",
+            "certificate_hash": "d70938854b11f15e0c4941dcc575440f6161ace4"
+          }
+        },
+        {
+          "client_id": "162993409742-ne0pk1m1ah282jfluo6cm1dtcugcm9r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcqHbaqd7wk2NG1EHAZGi315m-C2rt1Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162993409742-ne0pk1m1ah282jfluo6cm1dtcugcm9r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
